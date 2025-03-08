@@ -1,17 +1,18 @@
-# IQOO Z9 5G Optimization for adb shell
-<h1>Changelogs :</h1>
-• LOCK 120Hz
-• Unlock 144Hz for Minecraft
-• Network optimization
-• Funtouch Os optimizer
-• Game optimization
-• Touch optimization
-• App optimization  
+<h1 align = "center">IQOO Z9 5G Optimization for adb shell</h1>
 
-<h2>Tools :</h2>
+<h2>Changelogs :</h2>
+• LOCK 120Hz<br>
+• Unlock 144Hz for Minecraft<br>
+• Network optimization<br>
+• Funtouch Os optimizer<br>
+• Game optimization<br>
+• Touch optimization<br>
+• App optimization<br>  
+
+<h3>Tools :</h3>
 • Platform-tools (https://developer.android.com/tools/releases/platform-tools)
 
-<h2>Notes :</h2>
-• Shell Scrip
-• No Root
-• Test On Funtouch OS
+<h3>Notes :</h3>
+• Shell Scrip<br>
+• No Root<br>
+• Test On Funtouch OS<br></br>
